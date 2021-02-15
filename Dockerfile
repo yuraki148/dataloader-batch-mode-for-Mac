@@ -21,7 +21,3 @@ ENV JAVA_HOME="C:\Program Files\Zulu\zulu-11"
 RUN mkdir csv-data
 RUN mkdir setting-process
 
-# install
-# RUN cd 'C:\\install\\dataloader_win'
-# RUN install.bat
-# CMD C:\install\install.bat && cmd
