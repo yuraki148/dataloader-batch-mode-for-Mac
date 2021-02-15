@@ -22,7 +22,9 @@ docker run -it imageName:tag
 control + p、q
 
 ## Enter container
+```
 docker exec -it {containerName} cmd
+```
 ## Install Dataloader
 ```
 cd install
